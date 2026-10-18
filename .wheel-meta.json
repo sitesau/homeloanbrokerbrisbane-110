@@ -1,0 +1,22 @@
+{
+  "wheel_id": 395,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerbrisbane-110",
+  "project": "mortgage-broker-brisbane-fees-explained-ad78b31675fc00add79b3b0",
+  "parent_t1_ref": "homeloanbrokerbrisbane-153",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "mortgage broker brisbane fees explained",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-brisbane-fees-explained-ad78b31675fc00add79b3b0/",
+  "tier": "T2",
+  "writeback_nonce": "7a1b60e30cea3daf",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokerbrisbane-153/",
+      "anchor": "https://sitesau.github.io/homeloanbrokerbrisbane-153/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
